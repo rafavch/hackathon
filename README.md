@@ -1,4 +1,4 @@
 # hackathon
-hackathon cisco
+hackathon CISCO MTY
 
-archivos de la primer hackathon de CISCO
+archivos de la primer hackathon de CISCO en MTY
